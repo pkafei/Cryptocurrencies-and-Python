@@ -20,3 +20,6 @@
 5. Start the notebook by running `jupyter notebook` in the command line
 
 ![](https://media.giphy.com/media/3o7abBP0nMjrdIvaCY/giphy.gif)
+
+
+Much of the code was inpired by this blogpost https://blog.patricktriest.com/analyzing-cryptocurrencies-python/
