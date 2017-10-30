@@ -1,6 +1,6 @@
 # Python and Cryptocurrencies
 
-#### Code for the [The Python and Cryptocurrencies webinar](https://youtu.be/4J-RCUer6BE)
+#### Code for the [The Python and Cryptocurrencies webinar](https://youtu.be/yWoUv-gljiA)
 
 
 ### Setting up Dev Environment
